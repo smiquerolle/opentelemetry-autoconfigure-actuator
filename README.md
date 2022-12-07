@@ -1,2 +1,4 @@
-# opentelemetry-sampling-actuator
-opentelemetry-sampling-actuator
+# OpenTelemetry AutoConfiguration Customizer
+
+Simple AutoConfiguration Customizer to avoid trace endpoint from Actuator (ex: /actuator/health)
+
