@@ -1,1 +1,2 @@
-# opentelemetry-autoconfigure-actuator
+# opentelemetry-sampling-actuator
+opentelemetry-sampling-actuator
