@@ -1,0 +1,1 @@
+# opentelemetry-autoconfigure-actuator
